@@ -3,22 +3,13 @@
 ## Workshop: `Creating a Responsive Future-friendly Web, the Responsive Web Design & Mobile First principles`
 <br /><br />
 
-This is the workshop I made for WMS London, UK 2013
-
-
 ## Item
-#####1- Building a Responsive Future-Friendly Web
-#####2- What is "the Web"?
-#####3- Think again. What is the "The Web"?
-#####4- Developing across multiple platforms and browsers
-#####5- What is a future-friendly Web
-#####6- Questions?. The End.
-
-
-
-## DEMO:.html
-www.leolanese.com/workshop/
-
+##### 1- Building a Responsive Future-Friendly Web </br>
+##### 2- What is "the Web"? </br>
+##### 3- Think again. What is the "The Web"? </br>
+##### 4- Developing across multiple platforms and browsers </br>
+##### 5- What is a future-friendly Web </br>
+##### 6- Questions?. The End. </br>
 
 
 ## License
